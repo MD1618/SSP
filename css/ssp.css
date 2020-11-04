@@ -216,11 +216,6 @@ html {
   background-color: rgb(204, 204, 204);
 }
 
-.footerInnerBottom {
-  display: flex;
-  justify-content: space-around;
-}
-
 .devLink {
   /* position: absolute;
     bottom: 0; */
